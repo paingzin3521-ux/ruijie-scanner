@@ -25,8 +25,8 @@ BOLD = "\033[1m"
 CLEAR_LINE = "\033[K"
 
 # Configuration
-CONCURRENCY = 50
-BATCH_SIZE = 50
+CONCURRENCY = 500
+BATCH_SIZE = 150
 SUCCESS_FILE = "success_codes.txt"
 LIMITED_FILE = "limited_codes.txt"
 KEY_FILE = ".saved_key"
